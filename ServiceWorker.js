@@ -1,9 +1,9 @@
 const cacheName = "UntitleTeam-ElUltimoAliento-1.1";
 const contentToCache = [
     "Build/WebGL.loader.js",
-    "Build/WebGL.framework.js.br",
-    "Build/WebGL.data.br",
-    "Build/WebGL.wasm.br",
+    "Build/WebGL.framework.js",
+    "Build/WebGL.data",
+    "Build/WebGL.wasm",
     "TemplateData/style.css"
 
 ];
